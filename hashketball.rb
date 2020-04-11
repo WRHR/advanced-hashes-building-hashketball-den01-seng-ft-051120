@@ -63,9 +63,21 @@ def game_hash
       ]
     },
     :away => {
-      :team_name => "",
-      :colors => [],
-      :players => []
+      :team_name => "Charlotte Hornets",
+      :colors => ["Turqoise", "Purple"],
+      :players => [
+        {
+          player_name: "Jeff",
+          number: ,
+          shoe: ,
+          points: ,
+          rebounds: ,
+          assists: , 
+          steals: ,
+          blocks: ,
+          slam_dunks: 
+        }
+      ]
     }
   }
 end
